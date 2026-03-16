@@ -80,6 +80,8 @@ Entering the elements in 40H
    - If **Yes**, stop the program.  
 ---
 ## Program (Descending order)
+NAME - K SURYA
+REG NO - 212225060282
 
 ```ORG 0000H
 LOOP1:MOV R0,#40H
